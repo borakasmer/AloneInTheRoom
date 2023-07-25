@@ -1,0 +1,15 @@
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\bin\Debug\net7.0\AloneInTheRoom.exe
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\bin\Debug\net7.0\AloneInTheRoom.deps.json
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\bin\Debug\net7.0\AloneInTheRoom.runtimeconfig.json
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\bin\Debug\net7.0\AloneInTheRoom.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\bin\Debug\net7.0\AloneInTheRoom.pdb
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\refint\AloneInTheRoom.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.pdb
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\AloneInTheRoom.genruntimeconfig.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\AloneInTheRoom\obj\Debug\net7.0\ref\AloneInTheRoom.dll
